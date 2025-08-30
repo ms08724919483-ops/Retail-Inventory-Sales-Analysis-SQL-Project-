@@ -1,5 +1,5 @@
 #  🛒 Retail-Inventory-Sales-Analysis-SQL-Project-
-This project is a **Retail Chain Database & Sales Analysis** built using **MySQL** with synthetic datasets.  
+This project is a **Retail Chain Database & Sales Analysis** built using **MySQL + Power BI** with synthetic datasets.  
 It demonstrates **SQL database design, data loading, and business analysis queries** for inventory & sales optimization.
 
 ---
