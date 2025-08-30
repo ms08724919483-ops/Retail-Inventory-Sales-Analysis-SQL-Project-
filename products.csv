@@ -1,0 +1,11 @@
+product_id,product_name,category,price,supplier_id
+101,Rice 10kg,Grocery,550.0,1
+102,Wheat Flour 5kg,Grocery,300.0,1
+103,Cooking Oil 1L,Grocery,180.0,2
+104,LED Bulb 12W,Electronics,250.0,3
+105,Phone Charger,Electronics,450.0,3
+106,Biscuits Pack,Snacks,50.0,4
+107,Toothpaste 200g,Personal Care,120.0,5
+108,Shampoo 500ml,Personal Care,250.0,5
+109,Soap Bar,Personal Care,40.0,5
+110,Soft Drink 1L,Beverages,70.0,4
