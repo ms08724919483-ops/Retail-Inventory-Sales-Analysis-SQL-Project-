@@ -36,8 +36,8 @@ The database has **5 core tables**:
 
  ## 🚀 Tech Stack
 
-- SQL (MySQL)
-- CSV (Sample Data)
+- SQL (MySQL) for data modeling & querying
+- CSV (mock data) for realistic inputs
 
 ### 1. Total sales per store -
 **SQL Code**
@@ -841,7 +841,7 @@ order by sale_date;
 | 2025-08-19 | 6800.00       |
 | 2025-08-20 | 5370.00       |
 
-## 🙌 Author
+## 🙌 About Me
 
 👤 Manish Sharma
 📧 ms08724919483@gmail.com
