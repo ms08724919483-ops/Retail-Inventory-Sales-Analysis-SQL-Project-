@@ -38,6 +38,14 @@ The database has **5 core tables**:
 
 - SQL (MySQL) for data modeling & querying
 - CSV (mock data) for realistic inputs
+- Tableau for visualization
+
+&ensp;
+
+## Tableau Dashboard -
+<img width="960" height="688" alt="image" src="https://github.com/user-attachments/assets/c8f1870e-dd33-4d30-a8a5-787f96795609" />
+
+&ensp;
 
 ### 1. Total sales per store -
 **SQL Code**
